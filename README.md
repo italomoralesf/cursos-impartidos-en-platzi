@@ -8,15 +8,15 @@ En este repositorio está el resumen de mi participación en Platzi.
 
 ## 2020
 
-* [Introducción a Laravel](#introduccion-a-laravel)
+* [Introducción a Laravel](#introducción-a-laravel)
 
 ## 2021
 
 * [PHP con Composer](#php-con-composer)
 * [Manejo de Datos en PHP](#manejo-de-datos-en-php)
-* [Programación Orientada a Objetos en PHP](#programacion-orientada-a-objetos-en-php)
-* [Introducción a Frameworks de PHP](#introduccion-a-frameworks-de-php)
-* [Introducción a Laravel 8](#introduccion-a-laravel-8)
+* [Programación Orientada a Objetos en PHP](#programación-orientada-a-objetos-en-php)
+* [Introducción a Frameworks de PHP](#introducción-a-frameworks-de-php)
+* [Introducción a Laravel 8](#introducción-a-laravel-8)
 * [Single Page Applications en Laravel con Inertia y Vue.js](#single-page-applications-en-laravel-con-inertia-y-vue.js)
 * [API REST con Laravel](#api-rest-con-laravel)
 * [Testing con PHP y Laravel](#testing-con-php-y-laravel)
@@ -25,7 +25,7 @@ En este repositorio está el resumen de mi participación en Platzi.
 
 ## 2022
 
-* [Introducción a Laravel 9](#introduccion-a-laravel-9)
+* [Introducción a Laravel 9](#introducción-a-laravel-9)
 
 #### Introducción a Laravel
 
