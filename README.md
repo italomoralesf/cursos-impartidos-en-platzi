@@ -17,7 +17,7 @@ En este repositorio está el resumen de mi participación en Platzi.
 * [Programación Orientada a Objetos en PHP](#programación-orientada-a-objetos-en-php)
 * [Introducción a Frameworks de PHP](#introducción-a-frameworks-de-php)
 * [Introducción a Laravel 8](#introducción-a-laravel-8)
-* [Single Page Applications en Laravel con Inertia y Vue.js](#single-page-applications-en-laravel-con-inertia-y-vue.js)
+* [Single Page Applications en Laravel con Inertia y Vue.js](#single-page-applications-en-laravel-con-inertia-y-vuejs)
 * [API REST con Laravel](#api-rest-con-laravel)
 * [Testing con PHP y Laravel](#testing-con-php-y-laravel)
 * [Desarrollo en Laravel con Test Driven Development](#desarrollo-en-laravel-con-test-driven-development)
