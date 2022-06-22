@@ -26,6 +26,7 @@ En este repositorio está el resumen de mi participación en Platzi.
 ## 2022
 
 * [Introducción a Laravel 9](#introducción-a-laravel-9)
+* [Fundamentos de Symfony 6](#fundamentos-de-symfony-6)
 
 #### Introducción a Laravel
 
