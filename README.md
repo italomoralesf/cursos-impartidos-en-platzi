@@ -158,3 +158,14 @@ Aprende los fundamentos del framework más popular de PHP. Descubre cómo empeza
 - Aprender a cómo diseñar mejor nuestros proyectos.
 
 💚 _Acceso a curso_ (https://platzi.com/cursos/laravel/)
+
+#### Fundamentos de Symfony 6
+
+Aprende a usar uno de los frameworks más robustos de PHP. Symfony es una herramienta que permite crear aplicaciones web profesionales dándote el mayor control sobre las mismas. Es utilizado como base para Laravel y en este curso aprenderás a cómo utilizarlo para crear tus propios proyectos.
+
+- Dominar la CLI de Symfony.
+- Entender su estructura de carpetas.
+- Aprender a usar bases de datos con Symfony.
+- Utilizar validación de datos con Symfony.
+
+💚 _Acceso a curso_ (https://platzi.com/cursos/symfony/)
